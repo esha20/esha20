@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hello people ! 👋, I'm Esha Mitra</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esha20&label=Profile%20views&color=0e75b6&style=flat" alt="esha20" /> </p>
+
 
 
 - 🌱 I’m currently learning **Web Development and trying my hands on coding and programing.**

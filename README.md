@@ -15,4 +15,4 @@
 
 [![esha's github stats](https://github-readme-stats.vercel.app/api?username=esha20&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esha20&" alt="esha20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esha20&theme=dracula&hide_border=true)" alt="esha20" /></p>

@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/esha-mitra-7291b6210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esha-mitra-7291b6210/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/esha-mitra-7291b6210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/esha20/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esha-mitra-7291b6210/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,6 +13,6 @@
 
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=esha20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
-[![esha's github stats](https://github-readme-stats.vercel.app/api?username=esha20&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![esha's github stats](https://github-readme-stats.vercel.app/api?username=esha20&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/esha20/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esha20&theme=dracula&hide_border=true)" alt="esha20" /></p>

@@ -15,4 +15,5 @@
  
 [![esha's github stats](https://github-readme-stats.vercel.app/api?username=esha20&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/esha20/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esha20&theme=dracula&hide_border=true)" alt="esha20" /></p>
+
+[![GitHub Streak]()](https://git.io/streak-stats) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esha20&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="esha20" /></p>

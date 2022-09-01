@@ -13,7 +13,4 @@
 
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=esha20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
-[![esha's github stats](https://github-readme-stats.vercel.app/api?username=esha20&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/esha20/github-readme-stats)
-
-
-[![GitHub Streak]()](https://git.io/streak-stats) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esha20&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="esha20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esha20&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="esha20" /></p>

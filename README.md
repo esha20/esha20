@@ -13,6 +13,6 @@
 
 <!--  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=esha20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  -->
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=esha20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=esha20" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=esha20"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=esha20" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esha20&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="esha20" /></p>
